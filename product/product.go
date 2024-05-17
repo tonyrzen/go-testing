@@ -1,4 +1,4 @@
-package main
+package product
 
 // Product is a structure that describes a single product
 type Product struct {
